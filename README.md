@@ -1,1 +1,1 @@
-# Basic python program to simulate a HangMan game 
+# Basic python program to play a game of Hangman.
